@@ -11,3 +11,6 @@ The results of the queries in the queries.sql file can be used to answer the fol
 
 #### Conclusion
 This project demonstrates how to use SQL to analyze data from a real-world business. The results of the analysis can be used to improve the supermarket company's operations and increase customer satisfaction.
+
+#### Dataset
+https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales
