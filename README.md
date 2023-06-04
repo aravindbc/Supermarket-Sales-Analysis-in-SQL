@@ -1,4 +1,4 @@
-### Supermarket Sales Analysis with SQL
+### Supermarket Sales Analysis in SQL
 This project analyzes sales data from three branches of a supermarket company. The data includes information about customer demographics, payment methods, and product categories.
 
 The results of the queries in the queries.sql file can be used to answer the following questions:
